@@ -251,7 +251,7 @@ function App() {
   </span>
 
   <span className="line-mask">
-    <span>problems </span>
+    <span>problems into</span>
   </span>
 
   <span className="line-mask">
