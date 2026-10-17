@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
 import {
   ArrowDownRight, ArrowUpRight, Code2, Database, Layers3, Braces,
-  Github, Linkedin, Mail, Phone, Menu, X, ExternalLink, Sparkles,
+  Mail, Phone, Menu, X, ExternalLink, Sparkles,
   Terminal, Workflow, Globe2, CheckCircle2
 } from 'lucide-react';
+import { Github, Linkedin } from './brandIcons.jsx';
 
 const linkedin = 'https://www.linkedin.com/in/abhishek-choudhary-02342b164/';
 const email = 'theabhi.sam@gmail.com';
@@ -144,4 +145,3 @@ function App() {
   );
 }
 export default App;
-        
