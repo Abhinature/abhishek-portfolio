@@ -244,6 +244,7 @@ function App() {
             <div className="availability"><span className="pulse"/> OPEN TO PHP / LARAVEL OPPORTUNITIES</div>
             <p className="overline">HELLO, I'M ABHISHEK</p>
             
+
 <h1>
   <span className="line-mask">
     <span>I turn complex</span>
@@ -254,13 +255,16 @@ function App() {
   </span>
 
   <span className="line-mask">
-    <span><RotatingWord /></span>
+    <span className="gradient-text">
+      <RotatingWord />
+    </span>
   </span>
 
   <span className="line-mask">
     <span className="serif-word">web solutions.</span>
   </span>
 </h1>
+
 
             <p className="hero-description">PHP & Laravel Developer with 5+ years of experience building useful web applications, reliable APIs, and data-driven systems — now supercharged with AI-assisted development and LLM integrations. I care about clean code, thoughtful user experiences, and solving the problem behind the requirement.</p>
             <div className="hero-actions">
